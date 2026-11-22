@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.themesepia",
+  "repo": "NDesumeur/neodex-plugin-theme-sepia",
+  "version": "1.0.0",
+  "sha256": "2c52cc74e20602f670ea1cb8fa0614351cf08a5eaa64d89867082e062d196a67",
+  "approvedAt": "2026-11-22T19:05:25.620Z",
+  "neobase": ">=4.1.0",
+  "signature": "59L6DFBVrMFsA/EPx5T1XC1R5k9e467DY9fwGAdoRK14rfsblVyicbm8fXvKFCOepx1j4Jj8ZPwyUInICCAdBg=="
+}
