@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themesepia",
+  "name": "Thème Vieux film",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Une pellicule des années 20 : sépia, rayures et grain qui tremblent, perforations de film autour des barres. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "sepia",
+      "name": "Vieux film",
+      "style": "sepia",
+      "hue": 35,
+      "sat": 30,
+      "accent": "#e8c48a",
+      "light": "#f6e7c8",
+      "third": "#b5835a",
+      "lift": 1.8,
+      "about": "Une pellicule des années 20 : sépia, rayures et grain qui tremblent, perforations de film autour des barres."
+    }
+  ]
+}
